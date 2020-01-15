@@ -14,7 +14,7 @@ public class Student {
     private String name;
     private double GPA;
     private String email;
-
+    
     public double getGPA() {
         return GPA;
     }
@@ -43,7 +43,7 @@ public class Student {
 
     /**
      * @return the email
-     * uhhhhhhh
+     * uhhhhhhhisoa
      */
     public String getEmail() {
         return email;
