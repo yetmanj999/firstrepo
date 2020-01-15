@@ -43,7 +43,7 @@ public class Student {
 
     /**
      * @return the email
-     * uhhhhhh
+     * uhhhhhhh
      */
     public String getEmail() {
         return email;
